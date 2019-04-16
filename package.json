@@ -1,0 +1,27 @@
+{
+  "name": "@hbarve1/javascript",
+  "version": "0.0.1",
+  "description": "This repo contains all the config to run javascript with all the configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hbarve1/javascript.git"
+  },
+  "author": "Himank Honey Barve <hbarve1592@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbarve1/javascript/issues"
+  },
+  "homepage": "https://github.com/hbarve1/javascript#readme",
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "jest": "24.7.1",
+    "prettier": "1.17.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
